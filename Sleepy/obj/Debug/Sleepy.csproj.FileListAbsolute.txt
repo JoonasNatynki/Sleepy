@@ -1,0 +1,9 @@
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\Sleepy\Sleepy\bin\Debug\Sleepy.exe.config
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\Sleepy\Sleepy\bin\Debug\Sleepy.exe
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\Sleepy\Sleepy\bin\Debug\Sleepy.pdb
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\Sleepy\Sleepy\obj\Debug\Sleepy.Form1.resources
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\Sleepy\Sleepy\obj\Debug\Sleepy.Properties.Resources.resources
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\Sleepy\Sleepy\obj\Debug\Sleepy.csproj.GenerateResource.Cache
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\Sleepy\Sleepy\obj\Debug\Sleepy.exe
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\Sleepy\Sleepy\obj\Debug\Sleepy.pdb
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\Sleepy\Sleepy\obj\Debug\Sleepy.csprojResolveAssemblyReference.cache
